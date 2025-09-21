@@ -29,7 +29,7 @@
     "@eggjs/tsconfig": "1",
     "egg-bin": "6",
     "egg-mock": "5",
-    "eslint": "8",
+    "eslint": "9",
     "eslint-config-egg": "13",
     "typescript": "5"
   },
